@@ -1,0 +1,13 @@
+# Nunca subir o .env real com credenciais verdadeiras
+.env
+
+# Dependências
+/vendor/
+composer.lock
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
